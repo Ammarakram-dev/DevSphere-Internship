@@ -2,93 +2,144 @@
 
 # ⚡ DevSphere AI & ML Internship
 
-### Building • Analyzing • Learning • Delivering
+### `BUILD` · `ANALYZE` · `VISUALIZE` · `LEARN` · `DELIVER`
 
-<p>
-  <img src="https://img.shields.io/badge/INTERNSHIP-AI%20%26%20ML-6C63FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WEEK-01-FF9800?style=for-the-badge">
-</p>
+<br>
 
-<p>
-  <b>A structured collection of practical work completed throughout my DevSphere AI & ML Internship.</b>
-</p>
+<img src="https://img.shields.io/badge/DEVSPHERE-AI%20%26%20ML-6C63FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DURATION-2%20MONTHS-00BCD4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/WEEKS-08-FF9800?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-00C853?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+> **A practical AI & Machine Learning journey built week by week through real technical work.**
+
+<br>
+
+`🐍 Python`   `🧠 Machine Learning`   `📊 Data Analysis`   `📈 Visualization`   `🤖 AI`
 
 </div>
 
 ---
 
-## 🧭 Internship Journey
+# 🧭 Internship Journey
+
+<div align="center">
+
+| Week | Focus                       |      Status      |
+| :--: | :-------------------------- | :--------------: |
+| `01` | 📊 Data Analysis & Cleaning | 🟢 **Completed** |
+| `02` | 📈 Data Visualization       | 🟢 **Completed** |
+| `03` | 🤖 Machine Learning         |    ⚪ Upcoming    |
+| `04` | 🧠 Model Development        |    ⚪ Upcoming    |
+| `05` | 🔬 Model Evaluation         |    ⚪ Upcoming    |
+| `06` | ⚙️ ML Implementation        |    ⚪ Upcoming    |
+| `07` | 🚀 Applied AI / ML Project  |    ⚪ Upcoming    |
+| `08` | 🏆 Final Project & Delivery |    ⚪ Upcoming    |
+
+</div>
+
+<br>
 
 ```text
-                    DEVSPHERE AI & ML
-                           │
-                           ▼
-              ┌──────────────────────┐
-              │      WEEK 01         │
-              │  Data Analysis       │
-              │  & Cleaning          │
-              └──────────┬───────────┘
+                    ⚡ DEVSPHERE
                          │
                          ▼
-              ┌──────────────────────┐
-              │      WEEK 02         │
-              │      Upcoming        │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │      WEEK 03         │
-              │      Upcoming        │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │      WEEK 04         │
-              │      Upcoming        │
-              └──────────────────────┘
+              ┌────────────────────┐
+              │  WEEK 01 · DATA    │
+              │  Analysis & Clean  │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ WEEK 02 · VISUAL   │
+              │ Data Visualization │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ WEEK 03 → WEEK 06  │
+              │ ML Development     │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ WEEK 07 · APPLIED  │
+              │ AI / ML Project    │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ WEEK 08 · DELIVERY │
+              │ Final Project      │
+              └────────────────────┘
 ```
 
 ---
 
-## 🚀 About This Repository
+# 🚀 Repository
 
-This repository is my working record for the **DevSphere AI & ML Internship**.
+This repository contains my practical work throughout the **two-month DevSphere AI & ML Internship**.
 
-Each week is organized as an independent project containing the relevant source code, datasets, notebooks, documentation, visual evidence, and final deliverables.
+Each completed week is organized as a self-contained project with its own data, notebooks, visual evidence, source code, documentation, and deliverables where applicable.
 
-The goal is simple:
+The internship follows a practical progression:
 
-> **Learn through practical work, document the process, and build a growing body of real technical experience.**
+```text
+DATA
+ ↓
+UNDERSTAND
+ ↓
+CLEAN
+ ↓
+VISUALIZE
+ ↓
+MODEL
+ ↓
+EVALUATE
+ ↓
+APPLY
+ ↓
+DELIVER
+```
 
 ---
 
-## 📊 Progress
+# 📊 Internship Progress
 
 <div align="center">
 
-|  Week  | Focus                                        | Technologies                 |      Status      |
-| :----: | -------------------------------------------- | ---------------------------- | :--------------: |
-| **01** | Student Performance Data Analysis & Cleaning | Python · Pandas · Matplotlib | 🟢 **Completed** |
-| **02** | —                                            | —                            | ⚪ **Upcoming**  |
-| **03** | —                                            | —                            | ⚪ **Upcoming**  |
-| **04** | —                                            | —                            | ⚪ **Upcoming**  |
+### `02 / 08 WEEKS COMPLETED`
+
+**████████░░░░░░░░░░░░░░░░░░░░  25%**
 
 </div>
 
+|    Week   | Project                                      | Progress |
+| :-------: | :------------------------------------------- | :------: |
+| 🟢 **01** | Student Performance Data Analysis & Cleaning | **100%** |
+| 🟢 **02** | Student Performance Data Visualization       | **100%** |
+|  ⚪ **03** | Upcoming                                     |  **0%**  |
+|  ⚪ **04** | Upcoming                                     |  **0%**  |
+|  ⚪ **05** | Upcoming                                     |  **0%**  |
+|  ⚪ **06** | Upcoming                                     |  **0%**  |
+|  ⚪ **07** | Upcoming                                     |  **0%**  |
+|  ⚪ **08** | Upcoming                                     |  **0%**  |
+
+> **Current milestone:** Week 02 completed.
+
 ---
 
-# 🔬 Week 01
+# 🔬 WEEK 01
 
-## Student Performance Data Analysis & Cleaning
+## 📊 Student Performance Data Analysis & Cleaning
 
-> **Raw Data → Inspection → Validation → Cleaning → Analysis → Visualization**
+> `RAW DATA → INSPECTION → VALIDATION → CLEANING → ANALYSIS`
 
-The first internship task focused on working with a real student-performance dataset using Python.
+The first task focused on understanding and preparing a student performance dataset using Python and Pandas.
 
-The dataset was loaded and explored with Pandas, checked for quality issues, prepared without unnecessarily altering valid records, exported as a cleaned dataset, and then analyzed through basic statistical methods and visualization.
-
-### What Was Completed
+### ✅ Completed
 
 ```text
 ✓ Dataset Loading
@@ -109,34 +160,123 @@ The dataset was loaded and explored with Pandas, checked for quality issues, pre
 ✓ Technical Documentation
 ```
 
-### Dataset Snapshot
+### 📌 Dataset
 
-| Property          |            Value |
-| ----------------- | ---------------: |
-| Records           |          **395** |
-| Columns           |           **33** |
-| Subject           |  **Mathematics** |
-| Main Grade Fields | **G1 · G2 · G3** |
-| Missing Values    |            **0** |
-| Duplicate Records |            **0** |
+| Property             |            Value |
+| :------------------- | ---------------: |
+| 👥 Records           |          **395** |
+| 🧩 Columns           |           **33** |
+| 📚 Subject           |  **Mathematics** |
+| 📈 Grade Fields      | **G1 · G2 · G3** |
+| ❌ Missing Values     |            **0** |
+| 🔁 Duplicate Records |            **0** |
 
-### Technology Stack
+### 🛠️ Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
-### Explore Week 01
+### 🔗 Explore Week 01
 
-📁 **[Open Week 01 Project](./Week_1/DevSphere_ML_Week1/)**
+📁 **[Project](./Week_1/DevSphere_ML_Week1/)**
+📓 **[Jupyter Notebook](./Week_1/DevSphere_ML_Week1/notebook/DevSphere_ML_Week1_Analysis.ipynb)**
+📄 **[Week 01 README](./Week_1/DevSphere_ML_Week1/README.md)**
 
-📓 **[Open Jupyter Notebook](./Week_1/DevSphere_ML_Week1/notebook/DevSphere_ML_Week1_Analysis.ipynb)**
+---
 
-📄 **[Open Week 01 README](./Week_1/DevSphere_ML_Week1/README.md)**
+# 📈 WEEK 02
+
+## 🎨 Student Performance Data Visualization
+
+> `DATA → VISUALIZE → COMPARE → INTERPRET`
+
+The second task focused on transforming the student performance dataset into clear and meaningful visualizations using **Matplotlib and Seaborn**.
+
+### ✨ Built
+
+```text
+✓ Bar Chart
+✓ Line Chart
+✓ Pie Chart
+✓ Clean Chart Labels
+✓ Meaningful Titles
+✓ Performance Comparisons
+✓ Grade Trend Analysis
+✓ Performance Distribution
+✓ Data Insights
+✓ Visualization Documentation
+```
+
+### 📊 Visualization Set
+
+| Visualization     | Purpose                              |
+| :---------------- | :----------------------------------- |
+| 📊 **Bar Chart**  | Average final grade by gender        |
+| 📈 **Line Chart** | Average G1 → G2 → G3                 |
+| 🥧 **Pie Chart**  | Final-grade performance distribution |
+
+### 🛠️ Stack
+
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+### 🔗 Explore Week 02
+
+📁 **[Project](./Week_2/DevSphere_ML_Week2/)**
+📓 **[Jupyter Notebook](./Week_2/DevSphere_ML_Week2/notebook/DevSphere_ML_Week2_Visualization.ipynb)**
+📄 **[Week 02 README](./Week_2/DevSphere_ML_Week2/README.md)**
+
+---
+
+# 🧠 Upcoming Internship Path
+
+<details>
+<summary><strong>🤖 Week 03 — Machine Learning</strong></summary>
+
+Machine learning fundamentals, dataset preparation, feature selection, and initial model development.
+
+</details>
+
+<details>
+<summary><strong>🧠 Week 04 — Model Development</strong></summary>
+
+Building and training machine learning models using suitable algorithms and structured workflows.
+
+</details>
+
+<details>
+<summary><strong>🔬 Week 05 — Model Evaluation</strong></summary>
+
+Evaluating model performance using appropriate metrics and understanding model behavior.
+
+</details>
+
+<details>
+<summary><strong>⚙️ Week 06 — ML Implementation</strong></summary>
+
+Applying machine learning concepts to a practical problem and improving implementation quality.
+
+</details>
+
+<details>
+<summary><strong>🚀 Week 07 — Applied AI / ML</strong></summary>
+
+Developing a practical AI or ML solution that brings together the skills developed during the internship.
+
+</details>
+
+<details>
+<summary><strong>🏆 Week 08 — Final Project & Delivery</strong></summary>
+
+Finalizing the internship project, documentation, testing, presentation, and deliverables.
+
+</details>
 
 ---
 
@@ -146,34 +286,42 @@ The dataset was loaded and explored with Pandas, checked for quality issues, pre
 DevSphere_Internship/
 │
 ├── 📁 Week_1/
-│   │
 │   └── 📁 DevSphere_ML_Week1/
-│       │
 │       ├── 📁 data/
-│       │   ├── student-mat.csv
-│       │   └── student-mat-cleaned.csv
-│       │
 │       ├── 📁 notebook/
-│       │   └── DevSphere_ML_Week1_Analysis.ipynb
-│       │
 │       ├── 📁 screenshots/
-│       │   ├── 01_load_and_preview.png
-│       │   ├── 02_dataset_info_statistics.png
-│       │   ├── 03_data_quality_analysis.png
-│       │   ├── 04_data_cleaning.png
-│       │   ├── 05_export_verification.png
-│       │   └── 06_analysis_visualization.png
-│       │
 │       ├── 📁 report/
-│       │   ├── DevSphere_ML_Week1_Report.docx
-│       │   └── DevSphere_ML_Week1_Report.pdf
-│       │
 │       ├── 📁 src/
-│       │   └── data_analysis.py
-│       │
-│       └── README.md
+│       └── 📄 README.md
 │
-└── README.md
+├── 📁 Week_2/
+│   └── 📁 DevSphere_ML_Week2/
+│       ├── 📁 data/
+│       ├── 📁 notebook/
+│       ├── 📁 screenshots/
+│       ├── 📁 report/
+│       ├── 📁 src/
+│       └── 📄 README.md
+│
+├── 📁 Week_3/
+│   └── ...
+│
+├── 📁 Week_4/
+│   └── ...
+│
+├── 📁 Week_5/
+│   └── ...
+│
+├── 📁 Week_6/
+│   └── ...
+│
+├── 📁 Week_7/
+│   └── ...
+│
+├── 📁 Week_8/
+│   └── ...
+│
+└── 📄 README.md
 ```
 
 ---
@@ -182,114 +330,124 @@ DevSphere_Internship/
 
 <div align="center">
 
-### Languages & Analysis
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python" height="55">
-<img src="https://skillicons.dev/icons?i=cpp" height="55">
-<img src="https://skillicons.dev/icons?i=java" height="55">
+<img src="https://skillicons.dev/icons?i=python,cpp,java" height="55">
 
-### Data & Development
+### 📊 Data & AI
 
-<img src="https://skillicons.dev/icons?i=pandas" height="55">
-<img src="https://skillicons.dev/icons?i=matplotlib" height="55">
-<img src="https://skillicons.dev/icons?i=jupyter" height="55">
-<img src="https://skillicons.dev/icons?i=vscode" height="55">
-<img src="https://skillicons.dev/icons?i=git" height="55">
-<img src="https://skillicons.dev/icons?i=github" height="55">
+<img src="https://skillicons.dev/icons?i=pandas,matplotlib,jupyter" height="55">
+
+### 🛠️ Development
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github" height="55">
 
 </div>
 
 ---
 
-# 📈 Learning Pipeline
+# 🔄 Working Method
 
 ```text
-        DATA
-          │
-          ▼
-     UNDERSTAND
-          │
-          ▼
-       INSPECT
-          │
-          ▼
-      VALIDATE
-          │
-          ▼
-       CLEAN
-          │
-          ▼
-       ANALYZE
-          │
-          ▼
-    VISUALIZE
-          │
-          ▼
-      DOCUMENT
-          │
-          ▼
-       DELIVER
+┌─────────────┐
+│  📥 COLLECT │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  🔍 EXPLORE │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  🧹 PREPARE │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  📊 ANALYZE │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ 🎨 VISUALIZE│
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  🤖 MODEL   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  🔬 EVALUATE│
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  🚀 DELIVER │
+└─────────────┘
 ```
 
 ---
 
-# 📁 Weekly Organization
+# 📁 Standard Weekly Structure
 
-Every internship week follows a consistent structure where applicable:
+Each completed internship project follows a consistent structure:
 
 ```text
 Week_X/
 └── Project/
-    ├── data/
-    ├── notebook/
-    ├── screenshots/
-    ├── report/
-    ├── src/
-    └── README.md
+    ├── 📂 data/
+    ├── 📂 notebook/
+    ├── 📂 screenshots/
+    ├── 📂 report/
+    ├── 📂 src/
+    └── 📄 README.md
 ```
 
-This keeps each task self-contained and makes the repository easy to review, reproduce, and extend.
+This keeps every project organized, reviewable, and easy to extend.
 
 ---
 
-# 🎯 Internship Progress
+# 🎯 Core Learning Areas
+
+<div align="center">
+
+|   📊 Data  | 🎨 Visualization |    🤖 ML   |      🧠 AI      | ⚙️ Engineering |
+| :--------: | :--------------: | :--------: | :-------------: | :------------: |
+|  Analysis  |    Matplotlib    |   Models   |     Concepts    |     Python     |
+|  Cleaning  |      Seaborn     |  Training  | Problem Solving |       Git      |
+| Validation |      Charts      | Evaluation |    Applied AI   |  Documentation |
+
+</div>
+
+---
+
+# ⭐ Progress Snapshot
 
 ```text
 WEEK 01  ████████████████████  100%  ✓
-WEEK 02  ░░░░░░░░░░░░░░░░░░░░    0%  ○
+WEEK 02  ████████████████████  100%  ✓
 WEEK 03  ░░░░░░░░░░░░░░░░░░░░    0%  ○
 WEEK 04  ░░░░░░░░░░░░░░░░░░░░    0%  ○
-```
-
-**Current milestone:** Week 01 completed.
-
----
-
-# 📌 Repository Principles
-
-```text
-01  Keep the work organized
-02  Preserve original datasets
-03  Document important steps
-04  Validate results before delivery
-05  Keep projects reproducible
-06  Improve with every iteration
+WEEK 05  ░░░░░░░░░░░░░░░░░░░░    0%  ○
+WEEK 06  ░░░░░░░░░░░░░░░░░░░░    0%  ○
+WEEK 07  ░░░░░░░░░░░░░░░░░░░░    0%  ○
+WEEK 08  ░░░░░░░░░░░░░░░░░░░░    0%  ○
 ```
 
 ---
 
 <div align="center">
 
-## DevSphere AI & ML Internship
+# ⚡ DEVSPHERE
 
-**Week by week. Project by project. Skill by skill.**
-
-<br>
-
-`AI` · `Machine Learning` · `Python` · `Data Analysis`
+### Two Months · Eight Weeks · One Continuous Learning Journey
 
 <br>
 
-⭐ **Internship Portfolio — In Progress**
+`📊 DATA`   `→`   `🤖 AI`   `→`   `🚀 IMPACT`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/INTERNSHIP-IN%20PROGRESS-6C63FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+**Building practical skills through practical work.**
 
 </div>
