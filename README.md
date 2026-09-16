@@ -2,7 +2,7 @@
 
 # ⚡ DevSphere AI & ML Internship
 
-### `BUILD` · `ANALYZE` · `VISUALIZE` · `LEARN` · `DELIVER`
+### `BUILD` · `ANALYZE` · `VISUALIZE` · `MODEL` · `EVALUATE` · `DELIVER`
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-`🐍 Python`   `🧠 Machine Learning`   `📊 Data Analysis`   `📈 Visualization`   `🤖 AI`
+`🐍 Python`   `🧠 Machine Learning`   `📊 Data Analysis`   `📈 Visualization`   `🤖 AI`
 
 </div>
 
@@ -27,16 +27,16 @@
 
 <div align="center">
 
-| Week | Focus                       |      Status      |
-| :--: | :-------------------------- | :--------------: |
-| `01` | 📊 Data Analysis & Cleaning | 🟢 **Completed** |
-| `02` | 📈 Data Visualization       | 🟢 **Completed** |
-| `03` | 🤖 Machine Learning         |    ⚪ Upcoming    |
-| `04` | 🧠 Model Development        |    ⚪ Upcoming    |
-| `05` | 🔬 Model Evaluation         |    ⚪ Upcoming    |
-| `06` | ⚙️ ML Implementation        |    ⚪ Upcoming    |
-| `07` | 🚀 Applied AI / ML Project  |    ⚪ Upcoming    |
-| `08` | 🏆 Final Project & Delivery |    ⚪ Upcoming    |
+| Week | Focus                               |      Status      |
+| :--: | :---------------------------------- | :--------------: |
+| `01` | 📊 Data Analysis & Cleaning         | 🟢 **Completed** |
+| `02` | 📈 Data Visualization               | 🟢 **Completed** |
+| `03` | 🤖 Supervised Learning — Regression | 🟢 **Completed** |
+| `04` | 🧠 Model Development                |    ⚪ Upcoming    |
+| `05` | 🔬 Model Evaluation                 |    ⚪ Upcoming    |
+| `06` | ⚙️ ML Implementation                |    ⚪ Upcoming    |
+| `07` | 🚀 Applied AI / ML Project          |    ⚪ Upcoming    |
+| `08` | 🏆 Final Project & Delivery         |    ⚪ Upcoming    |
 
 </div>
 
@@ -59,7 +59,13 @@
                         │
                         ▼
               ┌────────────────────┐
-              │ WEEK 03 → WEEK 06  │
+              │ WEEK 03 · MODEL    │
+              │ Regression         │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │ WEEK 04 → WEEK 06  │
               │ ML Development     │
               └─────────┬──────────┘
                         │
@@ -110,24 +116,24 @@ DELIVER
 
 <div align="center">
 
-### `02 / 08 WEEKS COMPLETED`
+### `03 / 08 WEEKS COMPLETED`
 
-**████████░░░░░░░░░░░░░░░░░░░░  25%**
+**███████████░░░░░░░░░░░░░░░░░  37.5%**
 
 </div>
 
-|    Week   | Project                                      | Progress |
-| :-------: | :------------------------------------------- | :------: |
-| 🟢 **01** | Student Performance Data Analysis & Cleaning | **100%** |
-| 🟢 **02** | Student Performance Data Visualization       | **100%** |
-|  ⚪ **03** | Upcoming                                     |  **0%**  |
-|  ⚪ **04** | Upcoming                                     |  **0%**  |
-|  ⚪ **05** | Upcoming                                     |  **0%**  |
-|  ⚪ **06** | Upcoming                                     |  **0%**  |
-|  ⚪ **07** | Upcoming                                     |  **0%**  |
-|  ⚪ **08** | Upcoming                                     |  **0%**  |
+|    Week   | Project                                            | Progress |
+| :-------: | :------------------------------------------------- | :------: |
+| 🟢 **01** | Student Performance Data Analysis & Cleaning       | **100%** |
+| 🟢 **02** | Student Performance Data Visualization             | **100%** |
+| 🟢 **03** | Student Final Grade Prediction — Linear Regression | **100%** |
+|  ⚪ **04** | Upcoming                                           |  **0%**  |
+|  ⚪ **05** | Upcoming                                           |  **0%**  |
+|  ⚪ **06** | Upcoming                                           |  **0%**  |
+|  ⚪ **07** | Upcoming                                           |  **0%**  |
+|  ⚪ **08** | Upcoming                                           |  **0%**  |
 
-> **Current milestone:** Week 02 completed.
+> **Current milestone:** Week 03 completed — Supervised Learning & Regression.
 
 ---
 
@@ -234,12 +240,136 @@ The second task focused on transforming the student performance dataset into cle
 
 ---
 
+# 🤖 WEEK 03
+
+## 🎓 Student Final Grade Prediction — Linear Regression
+
+> `DATA → FEATURES → TRAIN → PREDICT → EVALUATE → SAVE`
+
+Week 3 introduced **Supervised Machine Learning** through a complete regression workflow.
+
+The project uses the **Student Performance Mathematics Dataset** to predict the final grade `G3` using the earlier grades `G1` and `G2`.
+
+### 🎯 Objective
+
+Build and evaluate a working **Linear Regression model** capable of predicting final student grades from previous academic performance.
+
+### 🧠 Machine Learning Pipeline
+
+```text
+📊 DATASET
+    ↓
+🧩 FEATURE SELECTION
+    ↓
+✂️ TRAIN / TEST SPLIT
+    ↓
+🤖 LINEAR REGRESSION
+    ↓
+🔮 PREDICTIONS
+    ↓
+📈 MODEL EVALUATION
+    ↓
+📊 VISUALIZATION
+    ↓
+💾 MODEL SAVING
+```
+
+### 📌 Dataset & Model
+
+| Property           | Value                 |
+| :----------------- | :-------------------- |
+| 👥 Records         | **395**               |
+| 🧩 Dataset Columns | **33**                |
+| 🎯 Target          | **G3**                |
+| 🔢 Features        | **G1 · G2**           |
+| 🏋️ Training Data  | **80%**               |
+| 🧪 Testing Data    | **20%**               |
+| 🎲 Random State    | **42**                |
+| 🤖 Algorithm       | **Linear Regression** |
+
+### 📊 Evaluation
+
+The trained model was evaluated using:
+
+```text
+MAE   → Mean Absolute Error
+MSE   → Mean Squared Error
+RMSE  → Root Mean Squared Error
+R²    → Coefficient of Determination
+```
+
+### ✨ Delivered
+
+```text
+✓ Feature Selection
+✓ Train/Test Split
+✓ Linear Regression Training
+✓ Test-Set Predictions
+✓ Regression Evaluation
+✓ Actual vs Predicted Visualization
+✓ Prediction Results
+✓ Model Persistence
+✓ Standalone Python Implementation
+✓ Jupyter Notebook
+✓ Professional Report
+✓ PDF Documentation
+```
+
+### 🛠️ Stack
+
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+### 🔗 Explore Week 03
+
+📁 **[Project](./Week_3/DevSphere_ML_Week3/)**
+📓 **[Jupyter Notebook](./Week_3/DevSphere_ML_Week3/notebook/DevSphere_ML_Week3_Regression.ipynb)**
+📄 **[Week 03 README](./Week_3/DevSphere_ML_Week3/README.md)**
+📑 **[Week 03 Report](./Week_3/DevSphere_ML_Week3/report/DevSphere_ML_Week3_Report.pdf)**
+
+### 📁 Week 03 Structure
+
+```text
+Week_3/
+└── DevSphere_ML_Week3/
+    │
+    ├── 📁 data/
+    │   └── 📄 student-mat.csv
+    │
+    ├── 📁 model/
+    │   └── 🧠 linear_regression_student_grade_model.pkl
+    │
+    ├── 📁 notebook/
+    │   └── 📓 DevSphere_ML_Week3_Regression.ipynb
+    │
+    ├── 📁 report/
+    │   ├── 📄 DevSphere_ML_Week3_Report.docx
+    │   └── 📕 DevSphere_ML_Week3_Report.pdf
+    │
+    ├── 📁 screenshots/
+    │   ├── 🖼️ 01_actual_vs_predicted.png
+    │   └── 🖼️ 02_prediction_results.png
+    │
+    ├── 📁 src/
+    │   └── 🐍 linear_regression.py
+    │
+    └── 📄 README.md
+```
+
+---
+
 # 🧠 Upcoming Internship Path
 
 <details>
-<summary><strong>🤖 Week 03 — Machine Learning</strong></summary>
+<summary><strong>🤖 Week 03 — Supervised Learning & Regression</strong></summary>
 
-Machine learning fundamentals, dataset preparation, feature selection, and initial model development.
+**Completed.**
+
+Built and evaluated a Linear Regression model using the Student Performance dataset to predict final grades from previous academic performance.
 
 </details>
 
@@ -304,7 +434,14 @@ DevSphere_Internship/
 │       └── 📄 README.md
 │
 ├── 📁 Week_3/
-│   └── ...
+│   └── 📁 DevSphere_ML_Week3/
+│       ├── 📁 data/
+│       ├── 📁 model/
+│       ├── 📁 notebook/
+│       ├── 📁 screenshots/
+│       ├── 📁 report/
+│       ├── 📁 src/
+│       └── 📄 README.md
 │
 ├── 📁 Week_4/
 │   └── ...
@@ -392,6 +529,7 @@ Each completed internship project follows a consistent structure:
 Week_X/
 └── Project/
     ├── 📂 data/
+    ├── 📂 model/
     ├── 📂 notebook/
     ├── 📂 screenshots/
     ├── 📂 report/
@@ -422,7 +560,7 @@ This keeps every project organized, reviewable, and easy to extend.
 ```text
 WEEK 01  ████████████████████  100%  ✓
 WEEK 02  ████████████████████  100%  ✓
-WEEK 03  ░░░░░░░░░░░░░░░░░░░░    0%  ○
+WEEK 03  ████████████████████  100%  ✓
 WEEK 04  ░░░░░░░░░░░░░░░░░░░░    0%  ○
 WEEK 05  ░░░░░░░░░░░░░░░░░░░░    0%  ○
 WEEK 06  ░░░░░░░░░░░░░░░░░░░░    0%  ○
@@ -440,7 +578,7 @@ WEEK 08  ░░░░░░░░░░░░░░░░░░░░    0%  ○
 
 <br>
 
-`📊 DATA`   `→`   `🤖 AI`   `→`   `🚀 IMPACT`
+`📊 DATA`   `→`   `📈 INSIGHT`   `→`   `🤖 ML`   `→`   `🚀 IMPACT`
 
 <br><br>
 
