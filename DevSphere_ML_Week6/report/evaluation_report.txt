@@ -1,0 +1,12 @@
+BREAST CANCER PREDICTION SYSTEM — EVALUATION REPORT
+=======================================================
+
+Training samples: 455
+Testing samples: 114
+Best parameters: {'classifier__C': 0.1, 'classifier__solver': 'liblinear'}
+
+Accuracy: 0.9825
+Precision: 0.9861
+Recall: 0.9861
+F1-Score: 0.9861
+ROC-AUC: 0.9960
